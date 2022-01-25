@@ -1,7 +1,6 @@
 import java.util.ArrayList;
 
 public class ppal {
-
 	// Permite crear alumnos, asignarles nombre y hasta notas.
 	
 	public static void main(String[] args) {
